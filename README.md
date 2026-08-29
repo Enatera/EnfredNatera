@@ -1,6 +1,6 @@
 # Hola, Yo Soy Enfred Natera 👋
 
-- 🎓 **T.S.U. en Informática** (Cursando en la actualidad)
+- 🎓 **T.S.U. en Informática**
 - 📍 Residenciado en Barcelona, Venezuela.
 - 💻 Enfocado en el desarrollo **Frontend** (HTML5, CSS3, JavaScript).
 - 📚 Actualmente aprendiendo: **React, Next.js, TypeScript & Tailwind CSS**.
